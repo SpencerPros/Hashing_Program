@@ -1,2 +1,2 @@
 # MyPythonPrograms
-All my Python Programs I've made.
+Hello this iis all the Python Programs I have made so far in my time at college!
