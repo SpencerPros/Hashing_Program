@@ -1,20 +1,20 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Python - Auditing Program</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This Python program I made is a basic simulation of a secure login system. It includes functions for hashing passwords using the SHA-256 algorithm. Users can input a username and password, and the program checks if the entered password matches a stored hashed password. The example demonstrates fundamental password security concepts, making it suitable for understanding authentication mechanisms in cybersecurity and user authentication systems. The credentials for this program are provided in the README for testing purposes.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
+- <b>Python</b> 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
