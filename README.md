@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-This Python program I made is a basic simulation of a secure login system. It includes functions for hashing passwords using the SHA-256 algorithm. Users can input a username and password, and the program checks if the entered password matches a stored hashed password. The example demonstrates fundamental password security concepts, making it suitable for understanding authentication mechanisms in cybersecurity and user authentication systems. The credentials for this program are provided in the README for testing purposes.
+This Python program I made is a basic simulation of a secure login system. It includes functions for hashing passwords using the SHA-256 algorithm as well as a GUI window for a more user friendly display. Users can input a username and password, and the program checks if the entered password matches a stored hashed password. The example demonstrates fundamental password security concepts, making it suitable for understanding authentication mechanisms in cybersecurity and user authentication systems. The credentials for this program are provided in the README for testing purposes.
 <br />
 
 
